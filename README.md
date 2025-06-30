@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="assets/images/GymFlickIcon.png" alt="GymFlicks Logo" width="150" />
+  <img src="assets/images/GymFlickIcon.png" alt="GymFlicks Logo" width="300" height="150" />
 </p>
 
 <p align="center">A social fitness app with AI-powered workout planning</p>
